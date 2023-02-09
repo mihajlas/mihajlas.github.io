@@ -10,7 +10,7 @@ main {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url('https://mihajlas.github.io/indie.jpg');
+    background-image: url('https://mihajlas.github.io/static/indie.jpg');
     background-size: cover;
 }
 
